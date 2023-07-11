@@ -1,1 +1,1 @@
-# codeclip_dynamic_component
+# codeclip dynamic-component
